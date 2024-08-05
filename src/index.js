@@ -5,5 +5,10 @@ function App() {
   return <h1>Hello World!</h1>;
 }
 
+// React >= v18
 const root = ReactDOM.createRoot(document.getElementById("root"));
-root.render(<App />);
+root.render(
+  <React.StrictMode>
+    <App />
+  </React.StrictMode>
+);
