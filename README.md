@@ -1,3 +1,7 @@
+# Pizza Menu Project
+following the Udemy course The "Ultimate React Course 2024: React, Next.js, Redux & More"
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
