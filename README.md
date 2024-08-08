@@ -1,6 +1,7 @@
 # Pizza Menu Project
 following the Udemy course The "Ultimate React Course 2024: React, Next.js, Redux & More"
-![image](https://github.com/user-attachments/assets/7be05fec-ac56-47ca-8c70-e89fa2057fce)
+![image](https://github.com/user-attachments/assets/89567e4b-6642-4e39-afb9-8da9ffb30313)
+
 
 
 # Getting Started with Create React App
