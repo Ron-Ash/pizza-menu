@@ -5,6 +5,6 @@ following the Udemy course The "Ultimate React Course 2024: React, Next.js, Redu
 
 
 ## Run React App
-### clone repository
-### enter pizza-menu project
-### `npm start` in terminal
+- clone repository
+- enter pizza-menu project
+- run `npm start` in terminal
